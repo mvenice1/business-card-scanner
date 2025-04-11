@@ -26,8 +26,5 @@ Welcome and thank you for installing the Business Card Scanner Add-on! This tool
 - **Contact Creation Issues?**  
   Verify that the initial setup has been completed. The add-on only creates contacts after the trigger is installed and the form is submitted.
 
-## Support
-
-If you have any questions or feedback, please refer to the help documentation within the add-on or contact support.
 
 Happy scanning!
