@@ -1,30 +1,33 @@
-Business Card Scanner Add-on
+# Business Card Scanner Add-on
+
 Welcome and thank you for installing the Business Card Scanner Add-on! This tool makes it easy to convert business cards into contacts on your Google Account.
 
-Getting Started
-Open the Add-on
-Launch the add-on from your Workspace app (for example, open Gmail and locate the Business Card Scanner in the sidebar).
+## Getting Started
 
-Initial Setup
-On the add-on’s homepage, click the “Click here to enable contact creation” link.
-This one-time setup installs the trigger that allows the add-on to automatically create contacts in your Google Account when you use it.
+1. **Open the Add-on**  
+   Launch the add-on from your Workspace app (for example, open Gmail and locate the Business Card Scanner in the sidebar).
 
-Scan a Business Card
+2. **Initial Setup**  
+   On the add-on’s homepage, click the **"Click here to enable contact creation"** link. This one-time setup installs the trigger that allows the add-on to automatically create contacts in your Google Account when you use it.
 
-Click the “Take or Upload a Business Card” label to capture or select an image.
+3. **Scan a Business Card**  
+   - Click the **"Take or Upload a Business Card"** label to capture or select an image.
+   - The add-on will process the image, extract the card details, and open a prefilled Google Form.
+   - Submit the form to add the contact to your Google Contacts.
 
-The add-on will process the image, extract the card details, and open a prefilled Google Form.
+4. **Continue Scanning**  
+   Once set up, you can scan new cards anytime. To scan another card, simply click the **"Scan Another Card"** button to reset the interface.
 
-Submit the form to complete the process—the contact will be added to your Google Contacts.
+## Troubleshooting
 
-Start Using
-Once set up, simply scan new cards anytime by repeating the steps above. You can also use the “Scan Another Card” button to reset the interface for additional scans.
+- **Trigger Not Set Up?**  
+  Ensure you clicked the **"Click here to enable contact creation"** link during the initial setup.
 
-Need Help?
-Trigger Not Set Up?
-Make sure to click the “Click here to enable contact creation” link during first use.
+- **Contact Creation Issues?**  
+  Verify that the initial setup has been completed. The add-on only creates contacts after the trigger is installed and the form is submitted.
 
-Contact Creation Issues?
-Verify that you have completed the initial setup. Your scanned card details will only create a contact after the setup is complete and the form is submitted.
+## Support
 
-That’s it! Enjoy turning your business cards into contacts with ease.
+If you have any questions or feedback, please refer to the help documentation within the add-on or contact support.
+
+Happy scanning!
