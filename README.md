@@ -14,19 +14,27 @@ You can open the Business Card Scanner in two ways:
   Open Gmail and look for the **Business Card Scanner** icon in the right-hand sidebar. Click it to launch the add-on.
 
 - **Using a Direct Link**  
-  [Click here to open the scanner](https://script.google.com/macros/s/AKfycbwz906piJef7fRJczXJfug_Ku6cCAJ3Al8oz0uYBqVz/dev)
+  [Click here to open the scanner](https://script.google.com/macros/s/XXXXXXXXXXXX/exec)  
+  _Replace the URL above with your deployed Web App URL._
 
-  > 💡 **Pro Tip:** For quick access on your phone, create a home screen shortcut:
-  > - **iPhone**: Use Safari to open the link, tap the **Share** icon, and select **"Add to Home Screen."**
-  > - **Android**: Use Chrome to open the link, tap the **three-dot menu**, then choose **"Add to Home screen."**
+  > 💡 **Pro Tip:** For quick access on your phone, create a home screen shortcut:  
+  > - **iPhone**: Open the link in Safari, tap the **Share** icon, and select **"Add to Home Screen."**  
+  > - **Android**: Open the link in Chrome, tap the **three-dot menu**, and choose **"Add to Home screen."**
 
 ---
 
-### 2. Initial Setup
+### 2. Authorize Access
 
-On the add-on's homepage, click the **"Click here to enable contact creation"** link.
+The first time you launch the add-on, you’ll be prompted to grant **Google account permissions**.
 
-This one-time setup installs the trigger that allows the add-on to automatically create contacts in your Google Account when you submit a scanned business card.
+This authorization allows the add-on to:
+
+- Upload and scan images using the Google Cloud Vision API
+- Autofill and submit contact details through the in-app form
+- (Optionally) Create new contacts in your Google Contacts
+
+> 🔒 **Privacy Note:**  
+> This app only uses the permissions necessary to perform the above functions. No data is shared or stored externally — all processing happens within your Google Workspace environment.
 
 ---
 
@@ -35,10 +43,10 @@ This one-time setup installs the trigger that allows the add-on to automatically
 1. Click the **"Take or Upload a Business Card"** button.
 2. Capture or select an image of the business card.
 3. The add-on will:
-   - Process the image
+   - Process the image using OCR
    - Extract contact details
-   - Open a prefilled Google Form
-4. Review and submit the form to create a new contact in your Google Contacts.
+   - Display an editable form directly within the app
+4. Review and submit the form to save the contact to your Google Contacts.
 
 > 💡 **Pro Tip:** Using a computer? You can scan email signatures too!  
 > Use the **Snipping Tool** (Windows) or **Screenshot** shortcut (Mac) to capture contact information from an email signature, then upload the image to process it just like a business card.
@@ -47,9 +55,8 @@ This one-time setup installs the trigger that allows the add-on to automatically
 
 ### 4. Continue Scanning
 
-Once setup is complete, you can scan additional cards at any time.
+You can scan additional cards anytime — just click the **"Scan Another Card"** button to reset the interface and start a new scan.
 
-Click the **"Scan Another Card"** button to reset the interface and start a new scan.
 
 ## Troubleshooting
 
