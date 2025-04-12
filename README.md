@@ -2,6 +2,8 @@
 
 Welcome and thank you for installing the Business Card Scanner Add-on! This tool makes it easy to convert business cards into contacts on your Google Account.
 
+This project is currently in the testing phase. If you're interested in becoming a tester, feel free to reach out!
+
 ## 🚀 Getting Started
 
 ### 1. Launch the Add-on
