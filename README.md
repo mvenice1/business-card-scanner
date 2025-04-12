@@ -29,12 +29,15 @@ The first time you launch the add-on, you’ll be prompted to grant **Google acc
 
 This authorization allows the add-on to:
 
-- Upload and scan images for contact details and parse the data
-- Autofill and submit contact details through the in-app form
+- Upload and scan images to extract contact details
+- Autofill and submit contact information through the in-app form
 - Create new contacts in your Google Contacts
 
 > 🔒 **Privacy Note:**  
-> This app only uses the permissions necessary to perform the above functions.
+> The only action this app performs on your Google Account is the creation of a contact using the  
+> `People.People.createContact(resource)` method from the **Google People API**.  
+> External access is required solely to process the scanned image and structure the data into contact fields.  
+> No information is shared outside your Google environment
 
 ---
 
