@@ -40,6 +40,9 @@ This one-time setup installs the trigger that allows the add-on to automatically
    - Open a prefilled Google Form
 4. Review and submit the form to create a new contact in your Google Contacts.
 
+> 💡 **Pro Tip:** Using a computer? You can scan email signatures too!  
+> Use the **Snipping Tool** (Windows) or **Screenshot** shortcut (Mac) to capture contact information from an email signature, then upload the image to process it just like a business card.
+
 ---
 
 ### 4. Continue Scanning
