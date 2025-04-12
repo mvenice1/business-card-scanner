@@ -31,7 +31,7 @@ This one-time setup installs the trigger that allows the add-on to automatically
 1. Click the **"Take or Upload a Business Card"** button.
 2. Capture or select an image of the business card.
 3. The add-on will:
-   - Process the image using OCR
+   - Process the image
    - Extract contact details
    - Open a prefilled Google Form
 4. Review and submit the form to create a new contact in your Google Contacts.
