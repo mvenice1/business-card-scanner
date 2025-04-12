@@ -29,9 +29,9 @@ The first time you launch the add-on, you’ll be prompted to grant **Google acc
 
 This authorization allows the add-on to:
 
-- Upload and scan images using the Google Cloud Vision API
+- Upload and scan images for contact details
 - Autofill and submit contact details through the in-app form
-- (Optionally) Create new contacts in your Google Contacts
+- Create new contacts in your Google Contacts
 
 > 🔒 **Privacy Note:**  
 > This app only uses the permissions necessary to perform the above functions. No data is shared or stored externally — all processing happens within your Google Workspace environment.
