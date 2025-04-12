@@ -61,13 +61,4 @@ This authorization allows the add-on to:
 You can scan additional cards anytime — just click the **"Scan Another Card"** button to reset the interface and start a new scan.
 
 
-## Troubleshooting
-
-- **Trigger Not Set Up?**  
-  Ensure you clicked the **"Click here to enable contact creation"** link during the initial setup.
-
-- **Contact Creation Issues?**  
-  Verify that the initial setup has been completed. The add-on only creates contacts after the trigger is installed and the form is submitted.
-
-
 Happy scanning!
