@@ -15,7 +15,6 @@ You can open the Business Card Scanner in two ways:
 
 - **Using a Direct Link**  
   [Click here to open the scanner](https://script.google.com/macros/s/AKfycbyngrLu76m1EXUUjmzUHxtSZg0CSQymx8FmiayGYMRLWmmy0euxRe7iien7y7nzsRjthg/exec) 
-  _Replace the URL above with your deployed Web App URL._
 
   > 💡 **Pro Tip:** For quick access on your phone, create a home screen shortcut:  
   > - **iPhone**: Open the link in Safari, tap the **Share** icon, and select **"Add to Home Screen."**  
