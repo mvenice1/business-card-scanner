@@ -14,7 +14,11 @@ You can open the Business Card Scanner in two ways:
   Open Gmail and look for the **Business Card Scanner** icon in the right-hand sidebar. Click it to launch the add-on.
 
 - **Using a Direct Link**  
-  [Click here to open the scanner](https://script.google.com/macros/s/AKfycbwz906piJef7fRJczXJfug_Ku6cCAJ3Al8oz0uYBqVz/dev)  
+  [Click here to open the scanner](https://script.google.com/macros/s/AKfycbwz906piJef7fRJczXJfug_Ku6cCAJ3Al8oz0uYBqVz/dev)
+
+  > 💡 **Pro Tip:** For quick access on your phone, create a home screen shortcut:
+  > - **iPhone**: Use Safari to open the link, tap the **Share** icon, and select **"Add to Home Screen."**
+  > - **Android**: Use Chrome to open the link, tap the **three-dot menu**, then choose **"Add to Home screen."**
 
 ---
 
