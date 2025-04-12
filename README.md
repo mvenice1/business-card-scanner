@@ -2,21 +2,45 @@
 
 Welcome and thank you for installing the Business Card Scanner Add-on! This tool makes it easy to convert business cards into contacts on your Google Account.
 
-## Getting Started
+## 🚀 Getting Started
 
-1. **Open the Add-on**  
-   Launch the add-on from your Workspace app (for example, open Gmail and locate the Business Card Scanner in the sidebar).
+### 1. Launch the Add-on
 
-2. **Initial Setup**  
-   On the add-on’s homepage, click the **"Click here to enable contact creation"** link. This one-time setup installs the trigger that allows the add-on to automatically create contacts in your Google Account when you use it.
+You can open the Business Card Scanner in two ways:
 
-3. **Scan a Business Card**  
-   - Click the **"Take or Upload a Business Card"** label to capture or select an image.
-   - The add-on will process the image, extract the card details, and open a prefilled Google Form.
-   - Submit the form to add the contact to your Google Contacts.
+- **From Gmail**  
+  Open Gmail and look for the **Business Card Scanner** icon in the right-hand sidebar. Click it to launch the add-on.
 
-4. **Continue Scanning**  
-   Once set up, you can scan new cards anytime. To scan another card, simply click the **"Scan Another Card"** button to reset the interface.
+- **Using a Direct Link**  
+  [Click here to open the scanner](https://script.google.com/macros/s/AKfycbwz906piJef7fRJczXJfug_Ku6cCAJ3Al8oz0uYBqVz/dev)  
+
+---
+
+### 2. Initial Setup
+
+On the add-on's homepage, click the **"Click here to enable contact creation"** link.
+
+This one-time setup installs the trigger that allows the add-on to automatically create contacts in your Google Account when you submit a scanned business card.
+
+---
+
+### 3. Scan a Business Card
+
+1. Click the **"Take or Upload a Business Card"** button.
+2. Capture or select an image of the business card.
+3. The add-on will:
+   - Process the image using OCR
+   - Extract contact details
+   - Open a prefilled Google Form
+4. Review and submit the form to create a new contact in your Google Contacts.
+
+---
+
+### 4. Continue Scanning
+
+Once setup is complete, you can scan additional cards at any time.
+
+Click the **"Scan Another Card"** button to reset the interface and start a new scan.
 
 ## Troubleshooting
 
